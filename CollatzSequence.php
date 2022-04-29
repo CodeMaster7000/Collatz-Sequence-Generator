@@ -11,6 +11,6 @@ function printCollatz($n)
     }
     echo $n;
 }
-//Enter the umber you wish to input here.
+//Enter the number you wish to input here.
 printCollatz(40);
 ?>
